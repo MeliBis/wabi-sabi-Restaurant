@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:
+    radial-gradient(black 3px, transparent 4px),
+    radial-gradient(black 3px, transparent 4px),
+    linear-gradient(#fff 4px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #a4a4a4 75px, #a4a4a4 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #a4a4a4 76px, #a4a4a4 77px, transparent 78px, transparent 109px),
+    #fff;
+    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+
+.form-register{
+    width: 400px;
+    background-color: #000;
+    padding: 30px;
+    margin: 150px auto;
+    border-radius: 4px;
+    color: #fff;
+    box-shadow: 7px 13px 37px rgba(0, 0, 0, 0.725);
+
+}
+.form-register h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+
+}
+.controls{
+    width: 100%;
+    padding: 10px;
+    border-radius:4px;
+    margin-bottom: 16px;
+}
+.form-register p{
+    height: 40px;
+    text-align: center;
+    font-size: 14px;
+
+}
+.form-register a{
+    color:#fff;
+    text-decoration: none;
+    line-height: 40px;
+}
+.form-register .boton{
+    width: 100%;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 16px 0;
+    font-size: 16px;
+}
+.form-register .boton:hover{
+    background-color: rgb(207, 38, 38);
+    color: #fff;
+}
+.form-register .link-cuenta a:hover{
+    color:rgb(230, 97, 97) ;
+}
+.form-register .link-acuerdo{
+    color: rgb(230, 97, 97);
+}

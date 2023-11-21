@@ -1,3 +1,6 @@
+RECURSOS UTILIZADOS
+--> patrones: https://projects.verou.me/css3patterns/#cross-dots
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
