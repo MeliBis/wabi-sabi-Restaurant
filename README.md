@@ -1,4 +1,8 @@
-RECURSOS UTILIZADOS
+RECURSOS UTILIZAD<img width="1360" alt="Captura de pantalla 2023-11-27 a la(s) 10 10 10" src="https://github.com/MeliBis/wabi-sabi-restaurant/assets/77559097/8352586a-bc2f-450b-90dd-eedcc8f269e6">
+OS
+<img width="1378" alt="Captura de pantalla 2023-11-27 a la(s) 10 10 24" src="https://github.com/MeliBis/wabi-sabi-restaurant/assets/77559097/a86157f5-c18e-49e4-b666-2c711c1a35d8">
+
+
 --> patrones: https://projects.verou.me/css3patterns/#cross-dots
 
 # Getting Started with Create React App
